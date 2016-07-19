@@ -1,10 +1,10 @@
 [Unit]
-Description=Bosun scollector
+Description=Scollector service
 
 [Service]
 Type=simple
 User=root
-ExecStart=/usr/local/sbin/scollector -conf /etc/bosun/scollector.conf
+ExecStart=/usr/bin/scollector -conf /etc/scollector/scollector.toml
 
 [Install]
 WantedBy=multi-user.target

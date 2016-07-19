@@ -79,4 +79,5 @@ Author Information
 ------------------
 
 Initially created by Lukas Pustina [@drivebytesting](https://twitter.com/drivebytesting).
+Customized for SLAC's env by xalg@slac.stanford.edu [@vinsnazzypants](https://twitter.com/vinsnazzypants)
 
